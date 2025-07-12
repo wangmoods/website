@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Muzhi Wang</title>
+    <link>http://muzhiwang.pages.dev/posts/</link>
+    <description>Recent content in Posts on Muzhi Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jul 2025 18:18:27 +0000</lastBuildDate>
+    <atom:link href="http://muzhiwang.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://muzhiwang.pages.dev/posts/test/</link>
+      <pubDate>Sat, 12 Jul 2025 18:18:27 +0000</pubDate>
+      <guid>http://muzhiwang.pages.dev/posts/test/</guid>
+      <description>&lt;h2 id=&#34;test1&#34;&gt;Test1&lt;/h2&gt;&#xA;&lt;p&gt;Test2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
